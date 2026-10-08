@@ -28,18 +28,19 @@ I build systems where **performance, correctness, and intelligence** meet.
 
 <table align="center">
 <tr>
+
 <td width="33%" valign="top">
 
 ### `build`
 
-```text
-storage
-matching
-queues
-backends
-inference
+<code>
+storage<br>
+matching<br>
+queues<br>
+backends<br>
+inference<br>
 real-time systems
-```
+</code>
 
 </td>
 
@@ -47,14 +48,14 @@ real-time systems
 
 ### `think`
 
-```text
-memory
-concurrency
-latency
-failure
-architecture
+<code>
+memory<br>
+concurrency<br>
+latency<br>
+failure<br>
+architecture<br>
 correctness
-```
+</code>
 
 </td>
 
@@ -62,15 +63,16 @@ correctness
 
 ### `explore`
 
-```text
-distributed systems
-computer vision
-deep learning
-model architecture
+<code>
+distributed systems<br>
+computer vision<br>
+deep learning<br>
+model architecture<br>
 ML systems
-```
+</code>
 
 </td>
+
 </tr>
 </table>
 
