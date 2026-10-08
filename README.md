@@ -1,52 +1,143 @@
-# Hi, I'm Keshav 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=145&section=header&text=Keshav%20Dhingra&fontSize=34&fontColor=ffffff&fontAlignY=42&desc=building%20software%20close%20to%20the%20metal%20and%20the%20model&descSize=13&descAlignY=64&descColor=8b949e" width="100%"/>
+
+<br>
+
+### `software engineer`
+
+I build systems where **performance, correctness, and intelligence** meet.
+
+`Rust` · `Python` · `C++` · `distributed systems` · `machine learning` · `computer vision`
+
+<br>
+
+<a href="https://www.linkedin.com/in/keshavdhingra001">
+<img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:keshavdhingra007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://x.com/">
+<img src="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/keshavdhingra001" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:keshavdhingra007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<table align="center">
+<tr>
+<td width="33%" valign="top">
+
+### `build`
+
+```text
+storage
+matching
+queues
+backends
+inference
+real-time systems
+```
+
+</td>
+
+<td width="33%" valign="top">
+
+### `think`
+
+```text
+memory
+concurrency
+latency
+failure
+architecture
+correctness
+```
+
+</td>
+
+<td width="33%" valign="top">
+
+### `explore`
+
+```text
+distributed systems
+computer vision
+deep learning
+model architecture
+ML systems
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### `under the abstraction`
+
+`WAL` · `SSTables` · `compaction` · `recovery` · `lock-free communication`  
+`matching engines` · `leases` · `fencing` · `replication` · `state machines`  
+`U-Net` · `partial convolution` · `self-attention` · `object detection` · `inference`
+
+</div>
 
 ---
 
-## Technologies & Tools
+### `toolchain`
 
-### Programming
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</p>
+<div align="center">
 
-### Web
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="React" width="40" height="40"/>
- 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=rust,python,cpp,java,ts,js,pytorch,opencv,react,nextjs,flask,fastapi,docker,linux,mongodb,prometheus,git&perline=9" />
 
+</div>
 
-### Utilities
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+<br>
+
+<div align="center">
+
+`Rust` · `Python` · `C++` · `Java` · `TypeScript` · `JavaScript`  
+`PyTorch` · `OpenCV` · `React` · `Next.js` · `Flask` · `FastAPI`  
+`Docker` · `Linux` · `MongoDB` · `Prometheus` · `Git` · `Weights & Biases`
+
+</div>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=keshavdhingra001&color=blue)
+
+<div align="center">
+
+### `engineering loop`
+
+**understand** → **implement** → **measure** → **break** → **verify** → **iterate**
+
+</div>
+
+<br>
+
+<div align="center">
+
+> I care about what happens when the happy path disappears.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=keshavdhingra001&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavdhingra001&layout=compact&langs_count=8&hide_border=true&theme=github_dark" height="165"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=keshavdhingra001&style=flat-square&color=6e7681" alt="Profile Views"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=90&section=footer" width="100%"/>
+
+</div>
